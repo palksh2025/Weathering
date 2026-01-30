@@ -1,0 +1,37 @@
+body {
+  background: linear-gradient(135deg, #fce4ec 0%, #e8f5e9 100%);
+  color: #263238;
+}
+
+.navbar {
+  background-color: white !important;
+  border-bottom: 1px solid #f8bbd0;
+}
+
+.btn-primary {
+  background-color: #ec407a;
+  border-color: #ec407a;
+}
+.btn-primary:hover {
+  background-color: #d81b60;
+}
+
+.card {
+  background: white;
+  border: 1px solid #f8bbd0;
+  box-shadow: 0 4px 15px rgba(236, 64, 122, 0.12);
+}
+
+.card-header {
+  background: #fce4ec;
+  color: #c2185b;
+}
+
+.card-title {
+  color: #ad1457;
+}
+
+.table thead th {
+  background: #fce4ec;
+  color: #c2185b;
+}
